@@ -10,7 +10,7 @@ How is Our System different
 - It connects local and national Graduates and Employers 
 - Chat ability 
 
-The systgem is just an MVP due to the timeframe for the project to be completed 
+The systtem is just an MVP due to the timeframe for the project to be completed 
 The project focused more into creating a real life project while observing programmimng concepts such as
 - Inheritance
 - Polymophysim 
