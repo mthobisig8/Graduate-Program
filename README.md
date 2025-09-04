@@ -1,5 +1,5 @@
 # Graduate-Program
-Looking at the rate of unemployed graduate, we have taken an innitiative as Computer engineering student to Design an Minimum Viable Product for 
+Looking at the rate of unemployed graduate, we have taken an innitiative as Computer engineering students to Design an Minimum Viable Product for 
 a System that aims to reduce the rate of unemployement for graduate. We noticed the gap which makes it hard for graduates to find employment 
 Most companies are moving to a digital worldphysical interactions are becoming obsulete so we designed a system that will connect companies with graduate 
 
